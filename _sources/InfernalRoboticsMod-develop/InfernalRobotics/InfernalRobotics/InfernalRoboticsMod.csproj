@@ -78,7 +78,6 @@
     <Compile Include="Control\Servo\ServoExtension.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="Module\IRServoMinimal.cs" />
-    <Compile Include="Module\MuMechToggle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Module\ModuleIRServo.cs" />
     <Compile Include="Control\IServoMotor.cs" />
